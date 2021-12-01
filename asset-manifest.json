@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/vamsi-krishna-kodimela.github.io/weather-app-react-redux/static/css/main.74d009de.chunk.css",
+    "main.js": "/vamsi-krishna-kodimela.github.io/weather-app-react-redux/static/js/main.bc49bb0e.chunk.js",
+    "main.js.map": "/vamsi-krishna-kodimela.github.io/weather-app-react-redux/static/js/main.bc49bb0e.chunk.js.map",
+    "runtime-main.js": "/vamsi-krishna-kodimela.github.io/weather-app-react-redux/static/js/runtime-main.bb3c7d9f.js",
+    "runtime-main.js.map": "/vamsi-krishna-kodimela.github.io/weather-app-react-redux/static/js/runtime-main.bb3c7d9f.js.map",
+    "static/js/2.871b51c7.chunk.js": "/vamsi-krishna-kodimela.github.io/weather-app-react-redux/static/js/2.871b51c7.chunk.js",
+    "static/js/2.871b51c7.chunk.js.map": "/vamsi-krishna-kodimela.github.io/weather-app-react-redux/static/js/2.871b51c7.chunk.js.map",
+    "index.html": "/vamsi-krishna-kodimela.github.io/weather-app-react-redux/index.html",
+    "static/css/main.74d009de.chunk.css.map": "/vamsi-krishna-kodimela.github.io/weather-app-react-redux/static/css/main.74d009de.chunk.css.map",
+    "static/js/2.871b51c7.chunk.js.LICENSE.txt": "/vamsi-krishna-kodimela.github.io/weather-app-react-redux/static/js/2.871b51c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb3c7d9f.js",
+    "static/js/2.871b51c7.chunk.js",
+    "static/css/main.74d009de.chunk.css",
+    "static/js/main.bc49bb0e.chunk.js"
+  ]
+}
